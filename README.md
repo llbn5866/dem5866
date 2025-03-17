@@ -1,6 +1,6 @@
 # dem5866
 simple minimal firefox css theme 
-
+<br>
 # optional
 use vimiumff + firefox hotkey to navigate!<br>
 use jetbrains mono!<br>
@@ -24,4 +24,5 @@ use dark mode!<br>
 
 # preview
 ![tab&urlbar](https://github.com/user-attachments/assets/2ab83628-e0a6-4b1a-a91f-ed02ca7c8c99)
+<br>
 ![default](https://github.com/user-attachments/assets/1a8224f4-9731-4bf2-adc5-0c184dbbcd90)
