@@ -8,7 +8,7 @@ Use jetbrains mono!<br>
 Use dark mode!<br>
 
 # Install
-<br>
+
 1. about:config<br>
    - toolkit.legacyUserProfileCustomizations.stylesheets > true<br>
    - browser.compactmode.show > true<br>
