@@ -1,10 +1,10 @@
 # dem5866
 simple minimal firefox css theme 
 
-# optional
-use vimiumff + firefox hotkey to navigate!
-use jetbrains mono!
-use nightmode!
+>[!note]
+use vimiumff + firefox hotkey to navigate!<br>
+use jetbrains mono!<br>
+use nightmode!<br>
 
 # install
 
