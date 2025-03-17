@@ -1,13 +1,13 @@
 # dem5866
-simple minimal firefox css theme
+Simple minimal firefox css theme
 <br>
 <br>
-# dependencies
-use vimiumff + firefox hotkey to navigate!<br>
-use jetbrains mono!<br>
-use dark mode!<br>
+# Dependencies
+Use vimiumff + firefox hotkey to navigate!<br>
+Use jetbrains mono!<br>
+Use dark mode!<br>
 
-# install
+# Install
 
 1. about:config
    - toolkit.legacyUserProfileCustomizations.stylesheets > true
@@ -17,13 +17,13 @@ use dark mode!<br>
    - open root directory and create a folder > chrome
    - put the userChrome.css file in it
   
-3. restart firefox
+3. Restart firefox
 
-4. remove everything else + turn on "compact mode" with "customize toolbar" option in firefox
+4. Remove everything else + turn on "compact mode" with "customize toolbar" option in firefox
 
 
 
-# preview
+# Preview
 ![tab&urlbar](https://github.com/user-attachments/assets/2ab83628-e0a6-4b1a-a91f-ed02ca7c8c99)<br>
 <br>
 ![default](https://github.com/user-attachments/assets/1a8224f4-9731-4bf2-adc5-0c184dbbcd90)
