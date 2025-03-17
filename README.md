@@ -3,9 +3,9 @@ Simple minimalistic custom firefox css, it might not be useful but it's minimall
 <br>
 <br>
 # Recommendation
-Use vimiumff + firefox hotkey to navigate!<br>
-Use jetbrains mono!<br>
-Use dark mode!<br>
+- Use vimiumff + firefox hotkey to navigate!<br>
+- Use jetbrains mono!<br>
+- Use dark mode!<br>
 
 # Install
 
