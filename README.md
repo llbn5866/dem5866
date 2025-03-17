@@ -1,5 +1,5 @@
 # dem5866
-Simple firefox css theme without some of the default bloat
+Simple minimal firefox css theme
 
 ## Instalation
 
@@ -14,3 +14,7 @@ Simple firefox css theme without some of the default bloat
 3. restart firefox
 
 4. remove everything else + turn on "compact mode" with "customize toolbar" option in firefox
+
+## Reconmendation
+Use the vimiumFF and firefox hotkeys to get a better experience navigating through the browser
+
