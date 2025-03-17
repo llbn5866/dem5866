@@ -1,0 +1,115 @@
+:root {
+	--tab-font: 'JetBrains Mono';
+	--urlbar-font: 'JetBrains Mono';
+    
+	--tab-border-radius: 0 !important;
+	--tab-block-margin: 0 !important;
+	--urlbar-height-setting: 28px;
+    
+	--toolbar-field-border-color: var(--toolbar-bgcolor) !important;
+	--chrome-content-separator-color: var(--toolbar-bgcolor) !important;
+}
+
+
+/*
+:root[uidensity="compact"] {
+    --tab-min-height: px !important;
+    --tab-border-radius: 0 !important;
+    --tab-block-margin: 0 !important;
+}*/
+
+
+
+
+
+/*--- TAB BAR CUSTOMIZATION ---*/
+tab {
+	font-family: var(--tab-font, monospace);
+	font-weight: bold;
+	border: none !important;
+	padding-top: 0 !important;
+}
+
+#tabbrowser-tabs:not([secondarytext-unsupported]) .tab-label-container {
+    height: initial !important; 
+}
+
+.tabbrowser-tab {
+	/* remove border between tabs */
+	padding-inline: 0 !important;
+	/* reduce fade effect of tab text */
+	--tab-label-mask-size: 1em !important;
+	/* fix pinned tab behaviour on overflow */
+	overflow-clip-margin: 0px !important;
+}
+
+/*
+#TabsToolbar, .tabbrowser-tab {
+	max-height: px !important;
+}
+/*
+
+
+
+
+
+/*--- URL + NAV BAR CUSTOMIZATION ---*/
+#urlbar-container {
+	--urlbar-container-height: var(--urlbar-height-setting) !important;
+	margin-left: 0 !important;
+	margin-right: 0 !important;
+	padding-top: 2px !important;
+	padding-bottom: 2px !important;
+	font-family: var(--urlbar-font, 'monospace');
+	font-size: 16px;
+}
+
+#nav-bar {
+	border-top: none !important;
+	border-bottom: none !important;
+}
+
+#navigator-toolbox{
+	border-color: transparent !important;
+	border-bottom: 0.01px solid var(--chrome-content-separator-color);
+}
+
+
+
+
+
+/*--- HIDE BUTTONS ---*/
+#back-button {
+    display: none;
+}
+
+#forward-button {
+    display: none;
+}
+
+#urlbar-container {
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-bottom: 4px;
+}
+
+#urlbar-background {
+    border-radius: 0 !important;
+}
+
+#tabbrowser-tabs .tabbrowser-tab .tab-close-button { 
+    display: none !important; 
+}
+
+#star-button {
+	display: none;
+}
+
+.titlebar-buttonbox-container{
+	display:none;
+}
+
+/*--- BUTTONS POSITION CUSTOMIZATION ---*/
+#PanelUI-menu-button, #PanelUI-menu-button:hover{
+	padding: 0px !important;
+}
