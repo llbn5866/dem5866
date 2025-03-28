@@ -2,12 +2,12 @@
 Simple minimalistic custom firefox css, it might not be useful but it's minimalllll
 <br>
 <br>
-# Recommendation
+## Recommendation
 - Use vimiumff + firefox hotkey to navigate!<br>
 - Use jetbrains mono!<br>
 - Use dark mode!<br>
 
-# Install
+## Install
 
 1. about:config<br>
    - toolkit.legacyUserProfileCustomizations.stylesheets > true<br>
